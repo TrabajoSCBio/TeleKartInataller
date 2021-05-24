@@ -14,3 +14,7 @@ Para poder ejecutar el juego con una isntalación previa se han de cumplir los r
 # Uso
 
 Para ejecutar el juego únicamente se ha de abrir el archivo run.bat, de forma que en el caso del juego autocontenido abrirá el juego automáticamente, y en el caso del instalador iniciará la descarga de librerías siempre que se encuentre instalado el Python 3.8.8 en el PC.
+
+# Aclaración
+
+Si no funciona el multijugador reiniciad el juego (método informático).
