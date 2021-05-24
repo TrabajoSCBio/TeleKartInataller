@@ -4,7 +4,7 @@ Este repositorio contiene la instalación de Python junto con sus librerías y e
 
 # Juego autocontenido
 
-A través de este [link](https://upvedues-my.sharepoint.com/:u:/g/personal/pabmars2_upv_edu_es/EXeVgYksPLlLn9T0U0QyB-QBkx7SZG4DXVSla1nl5RALFA?e=bLCGJX) os pedéis descargar el juego autocontenido, para saber como hacerlo funcionar leer el siguiente apartado.
+A través de este [link](https://upvedues-my.sharepoint.com/:u:/g/personal/pabmars2_upv_edu_es/EXeVgYksPLlLn9T0U0QyB-QBkx7SZG4DXVSla1nl5RALFA?e=bLCGJX) os pedéis descargar el juego autocontenido, para saber como hacerlo funcionar leer el siguiente apartado (Uso).
 
 # Juego instalado
 
